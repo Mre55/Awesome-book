@@ -4,7 +4,7 @@ This project is about book shelf that allows users to add/remove books from a li
 
 <img width="765" alt="Screen Shot 2021-12-08 at 6 16 50 PM" src="https://user-images.githubusercontent.com/34578631/145233645-ae283235-69b3-4316-aa92-1778c15bab44.png">
 
-This Awesome book project set-up GitHub Actions that uses linter for HTML, CSS, and JavaScript also uses webpack as module bundler.
+This Awesome book project set-up GitHub Actions that uses linter for HTML, CSS, and JavaScript.
 
 ## Live Demo
 
@@ -16,7 +16,7 @@ This Awesome book project set-up GitHub Actions that uses linter for HTML, CSS, 
 - HTML
 - CSS
 - Frameworks - No Frameworks Used
-- Tools used - Git(version control), WebHint(linting tool), Stylelint(style linting), ESLint(Javascript linting), WebPack
+- Tools used - Git(version control), WebHint(linting tool), Stylelint(style linting), ESLint(Javascript linting).
 
 ## Getting Started
 
@@ -30,7 +30,7 @@ To work on this project locally you need to have Node.js installed in your machi
 
 ### Setup
 
-To setup this project first you should have to clone the repository and the go to the projects directory and run `npm install` command to install the needed dependency. After that run `npm start` command to run the project from local server to `http://localhost:8080/`.
+You need to have text editor (VS code, Atom) or any of your choice.
 
 ### Install
 
@@ -38,7 +38,7 @@ You have to have Node.js installed before working on this project.
 
 ### Usage
 
-You can start using To-Do-App by cloning the repository.
+You can start using Awesome Book by cloning the repository.
 
 
 
